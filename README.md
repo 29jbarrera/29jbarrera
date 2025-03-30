@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>👋🏻 Hola, soy Javier</h1>
+</div>
+<br>
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=29jbarrera&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true" width="55%" /></br>
@@ -11,7 +16,7 @@
 <!-- Tecnologies -->
 <div align="center">
   
-## 💻 Tecnologías que utilzo⚡
+## 🚀 Mi Stack de Desarrollo
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -45,4 +50,6 @@
 </div>
 
 <!-- Visit Counter -->
+<div align="end">
 <img src="https://komarev.com/ghpvc/?username=29jbarrera&label=Profile%20Views&color=blue&style=flat" />
+</div>
